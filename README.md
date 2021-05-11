@@ -1,7 +1,4 @@
-# Next.js (静态页) 在 [21云盒子](https://www.21cloudbox.com/) 的示例
-
-这是 [21云盒子](https://www.21cloudbox.com/) 上创建的 [Next.js](https://nextjs.org/) 示例。
-
+# Next.js 静态网站生成 SSG 在 [21YuBox](https://www.21cloudbox.com/) 的啟動模板
 
 如果你需要以 **服务器端渲染 (SSR)**方式部署 Next.js，可参考 [Next.js (服务器端渲染)](https://www.21cloudbox.com/blog/solutions/how-to-deploy-nextjs-project-in-production-server.html)
 
